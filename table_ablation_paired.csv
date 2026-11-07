@@ -1,0 +1,10 @@
+model,quantity,diff,ci_low,ci_high
+no_MarketType,dR2,-0.0039,-0.0096,0.0018
+no_MarketType,dMAE,0.0741,0.0086,0.1398
+no_MarketType,dGap,0.0057,-0.1387,0.148
+no_geography,dR2,-0.3028,-0.3413,-0.2641
+no_geography,dMAE,2.6784,2.2554,3.1038
+no_geography,dGap,-0.9402,-1.8196,-0.0457
+region_only,dR2,-0.2897,-0.3248,-0.255
+region_only,dMAE,2.4455,2.0268,2.8437
+region_only,dGap,-0.1391,-0.9413,0.668

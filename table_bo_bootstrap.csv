@@ -1,0 +1,33 @@
+spec,outcome,component,estimate,ci_low,ci_high
+paper,ESG_Overall,Total gap,16.1154,14.461,17.8003
+paper,ESG_Overall,Explained,-0.3001,-1.4402,0.9144
+paper,ESG_Overall,Unexplained,16.3996,15.1044,17.72
+paper,ESG_Overall,Interaction,0.0158,-0.4401,0.507
+paper,ESG_Environmental,Total gap,-0.9017,-4.2773,2.5158
+paper,ESG_Environmental,Explained,-0.8352,-4.1075,2.5768
+paper,ESG_Environmental,Unexplained,0.0164,-0.3155,0.3699
+paper,ESG_Environmental,Interaction,-0.0829,-0.2304,0.037
+paper,ESG_Social,Total gap,22.3245,19.6854,24.8847
+paper,ESG_Social,Explained,-0.0037,-0.6348,0.6126
+paper,ESG_Social,Unexplained,22.2747,19.5119,24.9059
+paper,ESG_Social,Interaction,0.0535,-0.7566,0.881
+paper,ESG_Governance,Total gap,26.9249,24.291,29.4981
+paper,ESG_Governance,Explained,-0.0615,-0.7883,0.6652
+paper,ESG_Governance,Unexplained,26.9093,24.1879,29.5959
+paper,ESG_Governance,Interaction,0.0771,-0.9409,1.1769
+paper+intensity,ESG_Overall,Total gap,16.1154,14.461,17.8003
+paper+intensity,ESG_Overall,Explained,-0.3001,-1.4402,0.9144
+paper+intensity,ESG_Overall,Unexplained,16.3996,15.1044,17.72
+paper+intensity,ESG_Overall,Interaction,0.0158,-0.4401,0.507
+paper+intensity,ESG_Environmental,Total gap,-0.9017,-4.2773,2.5158
+paper+intensity,ESG_Environmental,Explained,-0.8352,-4.1075,2.5768
+paper+intensity,ESG_Environmental,Unexplained,0.0164,-0.3155,0.3699
+paper+intensity,ESG_Environmental,Interaction,-0.0829,-0.2304,0.037
+paper+intensity,ESG_Social,Total gap,22.3245,19.6854,24.8847
+paper+intensity,ESG_Social,Explained,-0.0037,-0.6348,0.6126
+paper+intensity,ESG_Social,Unexplained,22.2747,19.5119,24.9059
+paper+intensity,ESG_Social,Interaction,0.0535,-0.7566,0.881
+paper+intensity,ESG_Governance,Total gap,26.9249,24.291,29.4981
+paper+intensity,ESG_Governance,Explained,-0.0615,-0.7883,0.6652
+paper+intensity,ESG_Governance,Unexplained,26.9093,24.1879,29.5959
+paper+intensity,ESG_Governance,Interaction,0.0771,-0.9409,1.1769
