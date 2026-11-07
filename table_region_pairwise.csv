@@ -1,0 +1,22 @@
+A,B,Diff_A_minus_B,CI_low,CI_high,p_raw,p_holm,Significant_Holm_0.05
+Middle East,North America,2.0013,0.6174,3.3757,0.0044,0.0924,False
+Asia,North America,1.7616,0.4237,3.056,0.0092,0.184,False
+Latin America,North America,1.5823,0.2383,2.8975,0.0204,0.3876,False
+Europe,North America,1.4932,0.2758,2.72,0.0216,0.3888,False
+Africa,Middle East,-1.3547,-2.8439,0.0637,0.06,1.0,False
+Middle East,Oceania,1.1848,-0.1891,2.5735,0.1,1.0,False
+Africa,Asia,-1.115,-2.505,0.2417,0.1072,1.0,False
+Asia,Oceania,0.9451,-0.3555,2.3223,0.1516,1.0,False
+Africa,Latin America,-0.9357,-2.3675,0.4027,0.1812,1.0,False
+Africa,Europe,-0.8466,-2.1688,0.4528,0.194,1.0,False
+North America,Oceania,-0.8165,-2.0368,0.457,0.196,1.0,False
+Latin America,Oceania,0.7658,-0.5271,2.087,0.2592,1.0,False
+Europe,Oceania,0.6767,-0.5867,1.9495,0.2764,1.0,False
+Africa,North America,0.6466,-0.6899,1.8952,0.3272,1.0,False
+Europe,Middle East,-0.5081,-1.8684,0.8776,0.4768,1.0,False
+Latin America,Middle East,-0.419,-1.8641,1.05,0.5856,1.0,False
+Asia,Europe,0.2684,-1.0264,1.5613,0.6716,1.0,False
+Asia,Middle East,-0.2397,-1.663,1.2607,0.7596,1.0,False
+Asia,Latin America,0.1793,-1.2254,1.5809,0.784,1.0,False
+Africa,Oceania,-0.1699,-1.4953,1.132,0.7956,1.0,False
+Europe,Latin America,-0.0891,-1.432,1.2071,0.8992,1.0,False
