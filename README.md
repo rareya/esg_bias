@@ -9,9 +9,9 @@
 [![XAI](https://img.shields.io/badge/Explainable-AI-EC4899?style=for-the-badge)](https://shap.readthedocs.io/)
 [![ESG](https://img.shields.io/badge/Domain-ESG%20Fairness-0EA5E9?style=for-the-badge)]()
 
-**Submitted to the ICAIF 2026 Conference — Milan, Italy | Nov 14-17, 2026**
 
-*Aarya Patankar · Aarya Kulkarni*
+
+*Aarya Patankar*
 
 ---
 
